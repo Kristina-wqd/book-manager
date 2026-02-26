@@ -3,7 +3,7 @@
 Веб-приложение для управления личной библиотекой на Vue 3.
 
 **Сайт доступен по адресу:**  
-🔗 [https://kristinailasova.github.io/book-manager/](https://kristinailasova.github.io/book-manager/)
+🔗 [https://Kristina-wqd.github.io/book-manager/](https://Kristina-wqd.github.io/book-manager/)
 
 ---
 
